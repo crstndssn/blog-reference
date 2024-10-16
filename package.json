@@ -18,6 +18,7 @@
     "date-fns": "^2.30.0",
     "eslint": "8.48.0",
     "eslint-config-next": "13.4.19",
+    "firebase": "^8.10.1",
     "github-slugger": "^2.0.0",
     "next": "13.5.4",
     "next-contentlayer": "^0.3.4",
@@ -31,11 +32,14 @@
     "rehype-pretty-code": "^0.10.0",
     "rehype-slug": "^5.1.0",
     "remark-gfm": "^3.0.1",
+    "sass": "^1.79.5",
     "shiki": "^0.14.3",
+    "swiper": "^11.1.14",
     "tailwindcss": "3.3.3"
   },
   "devDependencies": {
     "encoding": "^0.1.13",
+    "file-loader": "^6.2.0",
     "sharp": "^0.32.6"
   }
 }

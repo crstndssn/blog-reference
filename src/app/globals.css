@@ -17,6 +17,10 @@ h2 > a, h3>a {
 	text-decoration: none !important;
 }
 
+p {
+	margin: 0 !important;
+}
+
 code {
 	counter-reset: line;
 }

@@ -1,21 +1,21 @@
 const siteMetadata = {
-	title: 'Next.js Blog With Tailwind CSS and Contentlayer',
-	author: 'CodeBucks',
-	headerTitle: 'Next.js Blog',
-	description: 'A blog created with Next.js, Tailwind.css and contentlayer.',
-	language: 'en-us',
+	title: 'roxaaanne',
+	author: 'cristian dussán',
+	headerTitle: 'no te robes a mi chicx',
+	description: 'interferencia del nervio al epicentro de la caries',
+	language: 'es-cp',
 	theme: 'system', // system, dark or light
-	siteUrl: 'https://create-blog-with-nextjs.vercel.app', // your website URL
+	siteUrl: 'https://roxaaanne.com', // your website URL
 	siteLogo: '/logo.png',
 	socialBanner: '/social-banner.png', // add social banner in the public folder
-	email: 'codebucks27@gmail.com', 
-	github: 'https://github.com/codebucks27',
-	twitter: 'https://twitter.com/code_bucks',
-	facebook: 'https://facebook.com',
-	youtube: 'https://youtube.com/codebucks',
-	linkedin: 'https://www.linkedin.com/in/codebucks/',
-	dribbble: 'https://www.dribbble.com',
-	locale: 'en-US',
+	email: 'dussan29@gmail.com', 
+	github: 'https://github.com/crstndssn',
+	twitter: 'https://twitter.com/crstndssn',
+	facebook: 'https://facebook.com/crsntdssn',
+	youtube: 'https://youtube.com/crstndssn',
+	linkedin: 'https://www.linkedin.com/in/crstndssn/',
+	instagram: 'https://www.instagram.com/roxaaanne___/',
+	locale: 'es-CO',
 }
 
 module.exports = siteMetadata
